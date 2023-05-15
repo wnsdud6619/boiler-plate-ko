@@ -27,7 +27,7 @@ const userSchema = mongoose.Schema({
         type: String,
     },
     tokenExp: {
-        type: Numner,
+        type: Number,
     }
 })
 
